@@ -21,5 +21,10 @@ function ma123inMaster(){
 
 
 function mainF123eature(){
+}
+function mainMasterFFF(){
+	console.log(123);
+}
+function mainFeatureFFFF(){
 	console.log(123);
 }
